@@ -1,4 +1,4 @@
-# Charlie
+# Charlie CFO Skill
 
 A Claude Code skill for bootstrapped CFO financial management.
 
@@ -17,7 +17,7 @@ Charlie provides financial frameworks for bootstrapped, high-growth startups:
 ## Installation
 
 ```bash
-npx skills add brandongell/charlie-skill
+npx skills add EveryInc/charlie-cfo-skill
 ```
 
 ## Usage

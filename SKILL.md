@@ -1,9 +1,9 @@
 ---
-name: Charlie
+name: charlie-cfo
 description: Financial management frameworks for bootstrapped, high-growth startups. Use when the user asks about cash management, runway calculations, financial forecasting, capital allocation, hiring ROI, unit economics (LTV:CAC), burn rate analysis, working capital optimization, or balancing growth with profitability without venture capital. Triggers on questions like "should we make this hire?", "how much runway do we need?", "what metrics should I track?", "how do I forecast revenue?", or any strategic financial decision at a self-funded company.
 ---
 
-# Charlie: Bootstrapped CFO
+# Charlie CFO: Bootstrapped Financial Management
 
 Your AI CFO for bootstrapped, profitable companies. Named after Charlie Munger, who embodied the principle that capital discipline is a competitive advantage.
 
